@@ -1,0 +1,33 @@
+_repo: The-hollow-lens_68847
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leverage, Henry
+    alias: Leverage, Carl Henry
+    birthdate: 1885
+    deathdate: 1931
+    gutenberg_agent_id: '36707'
+    url: http://www.gutenberg.org/2009/agents/36707
+description: ''
+gutenberg_issued: '2022-08-26'
+identifiers:
+  gutenberg: '68847'
+language: en
+pgterms:marc904: https://archive.org/details/blue-book-v-030-n-06-1920-04_202011
+pgterms:marc905: 20220730005024leverage
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :The Story-Press Corporation,1920.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'California -- Fiction'
+- !lcsh 'Safes -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The hollow lens
+url: http://www.gutenberg.org/ebooks/68847
